@@ -46,3 +46,5 @@ First, checkout this project locally and then follow these steps:
 
 ## sample data insert
 Put together by [Dana Woodman](mailto:dana@danawoodman.com) and released under the MIT license. Have fun!
+
+## Github webhook trigger
